@@ -8,5 +8,13 @@
     <record id="15756649777fab9aw6qk" name="Наполеон с заварным кремом" author="uriak" url="" tags="еда наполеон" ctime="20191209234119" dir="15756649774e28zgr0wc" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1576090449xjqvo3pf0u" name="ГИС">
+   <node crypt="" id="1576090456akcp7scpb9" name="ArcGIS">
+    <recordtable>
+     <record id="1576091346n78vneewu0" name="База геоданных стандарта ESRI (*.gdb)" author="uriak" url="" tags="ArcGIS" ctime="20191211220906" dir="1576091346hc5skn0qhe" file="text.html"/>
+     <record id="1576094824upsj3z3rj5" name="Форматы данных ArcGIS" author="uriak" url="" tags="ArcGIS" ctime="20191211230704" dir="1576094824sxp92mkrsa" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
