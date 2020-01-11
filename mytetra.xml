@@ -8,6 +8,12 @@
     <record id="15756649777fab9aw6qk" name="Наполеон с заварным кремом" author="uriak" url="" tags="еда наполеон" ctime="20191209234119" dir="15756649774e28zgr0wc" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1578774886nlrqct6fgb" name="Английский"/>
+  <node crypt="" id="15787745449gvibggld0" name="Геология">
+   <node crypt="" id="1578778672oozxejllvn" name="Инженерная геология">
+    <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы"/>
+   </node>
+  </node>
   <node crypt="" id="1576090449xjqvo3pf0u" name="ГИС">
    <node crypt="" id="1576090456akcp7scpb9" name="ArcGIS">
     <recordtable>
@@ -18,21 +24,15 @@
    <node crypt="" id="1578774923ftw98ag86j" name="Data Mine"/>
    <node crypt="" id="1578774946247r8jg3wv" name="Surpac"/>
   </node>
+  <node crypt="" id="1578774892c0h22plpup" name="Латинский"/>
+  <node crypt="" id="1578774774ov2amk4zog" name="Логика"/>
+  <node crypt="" id="1578774764bb05gy07ii" name="Математика"/>
   <node crypt="" id="15787745247tle91l99x" name="Программирование">
    <node crypt="" id="1578774619gfhi5e4ytc" name="Python"/>
    <node crypt="" id="1578774631y6lyniy9p6" name="Java"/>
    <node crypt="" id="1578774654g1axhbzbn0" name="ООП"/>
    <node crypt="" id="1578774675uihcpr0qnv" name="Computer Science"/>
   </node>
-  <node crypt="" id="15787745449gvibggld0" name="Геология">
-   <node crypt="" id="1578778672oozxejllvn" name="Инженерная геология">
-    <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы"/>
-   </node>
-  </node>
-  <node crypt="" id="1578774764bb05gy07ii" name="Математика"/>
-  <node crypt="" id="1578774774ov2amk4zog" name="Логика"/>
   <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
-  <node crypt="" id="1578774886nlrqct6fgb" name="Английский"/>
-  <node crypt="" id="1578774892c0h22plpup" name="Латинский"/>
  </content>
 </root>
