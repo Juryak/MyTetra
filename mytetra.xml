@@ -24,7 +24,11 @@
    <node crypt="" id="1578774654g1axhbzbn0" name="ООП"/>
    <node crypt="" id="1578774675uihcpr0qnv" name="Computer Science"/>
   </node>
-  <node crypt="" id="15787745449gvibggld0" name="Геология"/>
+  <node crypt="" id="15787745449gvibggld0" name="Геология">
+   <node crypt="" id="1578778672oozxejllvn" name="Инженерная геология">
+    <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы"/>
+   </node>
+  </node>
   <node crypt="" id="1578774764bb05gy07ii" name="Математика"/>
   <node crypt="" id="1578774774ov2amk4zog" name="Логика"/>
   <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
