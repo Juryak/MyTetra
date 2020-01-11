@@ -15,6 +15,20 @@
      <record id="1576094824upsj3z3rj5" name="Форматы данных ArcGIS" author="uriak" url="" tags="ArcGIS" ctime="20191211230704" dir="1576094824sxp92mkrsa" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1578774923ftw98ag86j" name="Data Mine"/>
+   <node crypt="" id="1578774946247r8jg3wv" name="Surpac"/>
   </node>
+  <node crypt="" id="15787745247tle91l99x" name="Программирование">
+   <node crypt="" id="1578774619gfhi5e4ytc" name="Python"/>
+   <node crypt="" id="1578774631y6lyniy9p6" name="Java"/>
+   <node crypt="" id="1578774654g1axhbzbn0" name="ООП"/>
+   <node crypt="" id="1578774675uihcpr0qnv" name="Computer Science"/>
+  </node>
+  <node crypt="" id="15787745449gvibggld0" name="Геология"/>
+  <node crypt="" id="1578774764bb05gy07ii" name="Математика"/>
+  <node crypt="" id="1578774774ov2amk4zog" name="Логика"/>
+  <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
+  <node crypt="" id="1578774886nlrqct6fgb" name="Английский"/>
+  <node crypt="" id="1578774892c0h22plpup" name="Латинский"/>
  </content>
 </root>
