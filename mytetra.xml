@@ -6,11 +6,7 @@
   <node crypt="" id="1578774886nlrqct6fgb" name="Английский"/>
   <node crypt="" id="15787745449gvibggld0" name="Геология">
    <node crypt="" id="1578778672oozxejllvn" name="Инженерная геология">
-    <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы">
-     <recordtable>
-      <record id="1578859757w6cbhk6hjp" name="Тестовая запись" author="uriak" url="" tags="" ctime="20200112230917" dir="1578859757pqehnseiix" file="text.html"/>
-     </recordtable>
-    </node>
+    <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы"/>
    </node>
    <node crypt="" id="1578859024x8etx9ad1c" name="Тектоника">
     <recordtable>
