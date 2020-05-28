@@ -27,7 +27,11 @@
   </node>
   <node crypt="" id="1578774892c0h22plpup" name="Латинский"/>
   <node crypt="" id="1578774774ov2amk4zog" name="Логика"/>
-  <node crypt="" id="1578774764bb05gy07ii" name="Математика"/>
+  <node crypt="" id="1578774764bb05gy07ii" name="Математика">
+   <recordtable>
+    <record id="1590605167b54kxdmtbr" name="Производные" author="" url="" tags="" ctime="20200527214607" dir="1590605167z6u0hka28w" file="text.html"/>
+   </recordtable>
+  </node>
   <node crypt="" id="15787745247tle91l99x" name="Программирование">
    <node crypt="" id="1578774619gfhi5e4ytc" name="Python"/>
    <node crypt="" id="1578774631y6lyniy9p6" name="Java"/>
