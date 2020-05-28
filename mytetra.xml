@@ -6,7 +6,11 @@
   <node crypt="" id="1578774886nlrqct6fgb" name="Английский"/>
   <node crypt="" id="15787745449gvibggld0" name="Геология">
    <node crypt="" id="1578778672oozxejllvn" name="Инженерная геология">
-    <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы"/>
+    <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы">
+     <recordtable>
+      <record id="1590655214asftiqiyru" name="СП 14.13330 (Строительство в сейсмических районах)" author="" url="" tags="" ctime="20200528114014" dir="1590655214t9oa0vli49" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1578859024x8etx9ad1c" name="Тектоника">
     <recordtable>
