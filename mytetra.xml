@@ -34,6 +34,9 @@
   <node crypt="" id="1578774764bb05gy07ii" name="Математика">
    <recordtable>
     <record id="1590605167b54kxdmtbr" name="Производные" author="" url="" tags="" ctime="20200527214607" dir="1590605167z6u0hka28w" file="text.html"/>
+    <record id="1591639725lc5n7fjsf5" name="Определение приблизительного значения функции" author="" url="" tags="" ctime="20200608210845" dir="15916397257qu46aq6s7" file="text.html"/>
+    <record id="1591640404lyrnk10lup" name="Уравнение касательной в заданной точке функции" author="" url="" tags="" ctime="20200608212004" dir="1591640404vi2tiq3dsl" file="text.html"/>
+    <record id="1591640680ysuomnjkj5" name="Точки максимума и минимума функции" author="" url="" tags="" ctime="20200608212440" dir="1591640680cwnmh2fxkk" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="15787745247tle91l99x" name="Программирование">
