@@ -8,7 +8,13 @@
    <node crypt="" id="1578778672oozxejllvn" name="Инженерная геология">
     <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы"/>
    </node>
-   <node crypt="" id="1578859024x8etx9ad1c" name="Тектоника"/>
+   <node crypt="" id="1578859024x8etx9ad1c" name="Тектоника">
+    <node crypt="" id="160668352337fyvov9bi" name="Основы тектоники">
+     <recordtable>
+      <record id="160668429188d4rh7t2s" name="Определение тектоники (по Ю.А. Косыгину)" author="" url="" tags="" ctime="20201130001131" dir="16066842912d3336bewb" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
    <node crypt="" id="15788607264rop8wn9d6" name="Геокриология"/>
   </node>
   <node crypt="" id="1576090449xjqvo3pf0u" name="ГИС">
@@ -44,5 +50,10 @@
    </recordtable>
   </node>
   <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
+  <node crypt="" id="1606682539k8h72svgjg" name="Методология">
+   <recordtable>
+    <record id="1606683473vve4najas8" name="Характеристика науки" author="" url="" tags="" ctime="20201129235753" dir="1606683473o3vocl6w53" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
