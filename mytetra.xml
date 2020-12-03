@@ -50,10 +50,78 @@
    </recordtable>
   </node>
   <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
-  <node crypt="" id="1606682539k8h72svgjg" name="Методология">
+  <node crypt="" id="1606993223z2mjmmfelo" name="Общие вопросы">
    <recordtable>
-    <record id="1606683473vve4najas8" name="Характеристика науки" author="" url="" tags="" ctime="20201129235753" dir="1606683473o3vocl6w53" file="text.html"/>
+    <record id="1606683473vve4najas8" name="Характеристика науки" author="" url="" tags="" ctime="20201203140031" dir="1606683473o3vocl6w53" file="text.html"/>
+    <record id="16069933278zd7y5hgft" name="Пространство и время по Фейнману" author="" url="" tags="" ctime="20201203140207" dir="160699332724ivxcjf4q" file="text.html"/>
+    <record id="160699342221xfx4pe68" name="Что такое феноменологическая теория" author="" url="" tags="" ctime="20201203140342" dir="16069934222xijhgigsf" file="text.html"/>
    </recordtable>
+  </node>
+  <node crypt="" id="1606993459cftuz3iq1x" name="Дизайн">
+   <node crypt="" id="1606994197daf7nbb00k" name="Дизайн для недизайнера">
+    <node crypt="" id="1606994368x4jif859jg" name="Принцип приближенности">
+     <recordtable>
+      <record id="1606994782n1np6bxxvq" name="Принцип приближенности" author="" url="" tags="" ctime="20201203142622" dir="1606994782aflnmw7dkk" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1606995069kkl66hdnjw" name="Принцип выравнивания">
+     <recordtable>
+      <record id="1606995047bcmpacbljs" name="Принцип выравнивания" author="" url="" tags="" ctime="20201203143113" dir="1606995047is0x9432rh" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1606995140zotjyfl8rb" name="Принцип повторения">
+     <recordtable>
+      <record id="1606995278omud08aaua" name="Принцип повторения" author="" url="" tags="" ctime="20201203143438" dir="16069952784q0nstgpaa" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="16069955817edv5t1cot" name="Принцип контраста">
+     <recordtable>
+      <record id="1606995989xaifd3q8a4" name="Принцип контраста" author="" url="" tags="" ctime="20201203144629" dir="1606995989hyrhylavi5" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="160699602873pyc87nmy" name="Цвет">
+     <recordtable>
+      <record id="1606996847v7h9awwxcn" name="Цвет" author="" url="" tags="" ctime="20201203150047" dir="16069968479ckfvhzaui" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1606997058dmbpuo7szi" name="Категории шрифтов">
+     <node crypt="" id="160699707107lfi67k6c" name="Старостильные шрифты">
+      <recordtable>
+       <record id="1606997455wvcbspwae8" name="Старостильные шрифты" author="" url="" tags="" ctime="20201203151055" dir="1606997455quyffif1wu" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1606997487f38lbu7hkp" name="Новостильные (Modern) шрифты">
+      <recordtable>
+       <record id="1606997686j4943qs1ai" name="Новостильные (Modern) шрифты" author="" url="" tags="" ctime="20201203151446" dir="1606997686ilki7e7b35" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1606997701ehegwt0qlb" name="Брусковые шрифты">
+      <recordtable>
+       <record id="1606997852yyrm89qsxo" name="Брусковые шрифты" author="" url="" tags="" ctime="20201203151732" dir="1606997852rokj1mh0aq" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="160699786576txxy0ti3" name="Рубленные шрифты">
+      <recordtable>
+       <record id="1606998133xe1drrmgs1" name="Рубленные шрифты" author="" url="" tags="" ctime="20201203152213" dir="16069981332uxwyhhhtf" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1606998150npds1gztdy" name="Рукописные шрифты">
+      <recordtable>
+       <record id="16069982331uawv1noyr" name="Рукописные шрифты" author="" url="" tags="" ctime="20201203152353" dir="1606998233yppj8a3kjf" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1606998293xdayftzbap" name="Декоративные шрифты">
+      <recordtable>
+       <record id="1606998298dtdt1vo1ao" name="Декоративные шрифты" author="" url="" tags="" ctime="20201203152458" dir="1606998298md2re486pg" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="16069983206cj7w3e3yg" name="Контраст шрифтов">
+     <recordtable>
+      <record id="1606998815q05wc74cpb" name="Контраст шрифтов" author="" url="" tags="" ctime="20201203153335" dir="1606998815rvv4b0j9v0" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
  </content>
 </root>
