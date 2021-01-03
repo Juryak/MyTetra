@@ -4,6 +4,19 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="1578774886nlrqct6fgb" name="Английский"/>
+  <node crypt="" id="1609587723m1esy92j50" name="Видео">
+   <node crypt="" id="1609587744r2qw70v2qg" name="GoPro_шпаргалка">
+    <recordtable>
+     <record id="1609588258vc2ffp2tib" name="Режимы съёмки (инструкция)" author="" url="" tags="" ctime="20210102145058" dir="1609588258ya57qc0maa" file="text.html"/>
+     <record id="1609589325e1dq8ndch0" name="Режимы съёмки (подробное описание)" author="" url="" tags="" ctime="20210102150845" dir="1609589325hyl5xun6wj" file="text.html"/>
+     <record id="1609589771285hpserdy" name="Режим Protune" author="" url="" tags="" ctime="20210102151611" dir="1609589771c6a2533t5h" file="text.html"/>
+     <record id="16095900194tw2jlr29w" name="Режим «ONE BUTTON»" author="" url="" tags="" ctime="20210102152019" dir="1609590019xfwm790zoc" file="text.html"/>
+     <record id="16095900907z7amdpmre" name="Точечный экспозамер - «SPOT METER»" author="" url="" tags="" ctime="20210102152130" dir="16095900901t7q2mhwj5" file="text.html"/>
+     <record id="1609590242d5lv5zfy0o" name="Съёмка видео+фото" author="" url="" tags="" ctime="20210102152402" dir="1609590242ufwpu2otfr" file="text.html"/>
+     <record id="1609590289d285e5aj4n" name="Быстрый выход из меню" author="" url="" tags="" ctime="20210102152449" dir="160959028947ndpitust" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
   <node crypt="" id="15787745449gvibggld0" name="Геология">
    <node crypt="" id="1578778672oozxejllvn" name="Инженерная геология">
     <node crypt="" id="1578778687wxjmkr1f08" name="Нормативные документы"/>
@@ -26,36 +39,6 @@
    </node>
    <node crypt="" id="1578774923ftw98ag86j" name="Data Mine"/>
    <node crypt="" id="1578774946247r8jg3wv" name="Surpac"/>
-  </node>
-  <node crypt="" id="1578774892c0h22plpup" name="Латинский"/>
-  <node crypt="" id="1578774774ov2amk4zog" name="Логика"/>
-  <node crypt="" id="1578774764bb05gy07ii" name="Математика">
-   <recordtable>
-    <record id="1590605167b54kxdmtbr" name="Производные" author="" url="" tags="" ctime="20200527214607" dir="1590605167z6u0hka28w" file="text.html"/>
-    <record id="1591639725lc5n7fjsf5" name="Определение приблизительного значения функции" author="" url="" tags="" ctime="20200608210845" dir="15916397257qu46aq6s7" file="text.html"/>
-    <record id="1591640404lyrnk10lup" name="Уравнение касательной в заданной точке функции" author="" url="" tags="" ctime="20200608212004" dir="1591640404vi2tiq3dsl" file="text.html"/>
-    <record id="1591640680ysuomnjkj5" name="Точки максимума и минимума функции" author="" url="" tags="" ctime="20200608212440" dir="1591640680cwnmh2fxkk" file="text.html"/>
-    <record id="15918204203l4ajs2axz" name="Определенный и неопределенный интеграл" author="" url="" tags="" ctime="20200610232020" dir="15918204205vpmkdmesb" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" id="15787745247tle91l99x" name="Программирование">
-   <node crypt="" id="1578774619gfhi5e4ytc" name="Python"/>
-   <node crypt="" id="1578774631y6lyniy9p6" name="Java"/>
-   <node crypt="" id="1578774654g1axhbzbn0" name="ООП"/>
-   <node crypt="" id="1578774675uihcpr0qnv" name="Computer Science"/>
-  </node>
-  <node crypt="" id="15759240796qc5eodmph" name="Рецепты">
-   <recordtable>
-    <record id="15756649777fab9aw6qk" name="Наполеон с заварным кремом" author="uriak" url="" tags="еда наполеон" ctime="20191209234119" dir="15756649774e28zgr0wc" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
-  <node crypt="" id="1606993223z2mjmmfelo" name="Общие вопросы">
-   <recordtable>
-    <record id="1606683473vve4najas8" name="Характеристика науки" author="" url="" tags="" ctime="20201203140031" dir="1606683473o3vocl6w53" file="text.html"/>
-    <record id="16069933278zd7y5hgft" name="Пространство и время по Фейнману" author="" url="" tags="" ctime="20201203140207" dir="160699332724ivxcjf4q" file="text.html"/>
-    <record id="160699342221xfx4pe68" name="Что такое феноменологическая теория" author="" url="" tags="" ctime="20201203140342" dir="16069934222xijhgigsf" file="text.html"/>
-   </recordtable>
   </node>
   <node crypt="" id="1606993459cftuz3iq1x" name="Дизайн">
    <node crypt="" id="1606994197daf7nbb00k" name="Дизайн для недизайнера">
@@ -133,5 +116,35 @@
     </node>
    </node>
   </node>
+  <node crypt="" id="1578774892c0h22plpup" name="Латинский"/>
+  <node crypt="" id="1578774774ov2amk4zog" name="Логика"/>
+  <node crypt="" id="1578774764bb05gy07ii" name="Математика">
+   <recordtable>
+    <record id="1590605167b54kxdmtbr" name="Производные" author="" url="" tags="" ctime="20200527214607" dir="1590605167z6u0hka28w" file="text.html"/>
+    <record id="1591639725lc5n7fjsf5" name="Определение приблизительного значения функции" author="" url="" tags="" ctime="20200608210845" dir="15916397257qu46aq6s7" file="text.html"/>
+    <record id="1591640404lyrnk10lup" name="Уравнение касательной в заданной точке функции" author="" url="" tags="" ctime="20200608212004" dir="1591640404vi2tiq3dsl" file="text.html"/>
+    <record id="1591640680ysuomnjkj5" name="Точки максимума и минимума функции" author="" url="" tags="" ctime="20200608212440" dir="1591640680cwnmh2fxkk" file="text.html"/>
+    <record id="15918204203l4ajs2axz" name="Определенный и неопределенный интеграл" author="" url="" tags="" ctime="20200610232020" dir="15918204205vpmkdmesb" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1606993223z2mjmmfelo" name="Общие вопросы">
+   <recordtable>
+    <record id="1606683473vve4najas8" name="Характеристика науки" author="" url="" tags="" ctime="20201203140031" dir="1606683473o3vocl6w53" file="text.html"/>
+    <record id="16069933278zd7y5hgft" name="Пространство и время по Фейнману" author="" url="" tags="" ctime="20201203140207" dir="160699332724ivxcjf4q" file="text.html"/>
+    <record id="160699342221xfx4pe68" name="Что такое феноменологическая теория" author="" url="" tags="" ctime="20201203140342" dir="16069934222xijhgigsf" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="15787745247tle91l99x" name="Программирование">
+   <node crypt="" id="1578774619gfhi5e4ytc" name="Python"/>
+   <node crypt="" id="1578774631y6lyniy9p6" name="Java"/>
+   <node crypt="" id="1578774654g1axhbzbn0" name="ООП"/>
+   <node crypt="" id="1578774675uihcpr0qnv" name="Computer Science"/>
+  </node>
+  <node crypt="" id="15759240796qc5eodmph" name="Рецепты">
+   <recordtable>
+    <record id="15756649777fab9aw6qk" name="Наполеон с заварным кремом" author="uriak" url="" tags="еда наполеон" ctime="20191209234119" dir="15756649774e28zgr0wc" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
  </content>
 </root>
