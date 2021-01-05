@@ -3,7 +3,83 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1578774886nlrqct6fgb" name="Английский"/>
+  <node crypt="" id="1578774886nlrqct6fgb" name="Английский">
+   <node crypt="" id="16097023149cy0xiv4gf" name="__Детали__">
+    <recordtable>
+     <record id="1609702368n039o5mj52" name="Звук r" author="" url="" tags="" ctime="20210103223248" dir="1609702368f5d7a2r0bw" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609701652nl0zwf7fpe" name="Транскрипция">
+    <recordtable>
+     <record id="1609701625z83t5rdply" name="Транскрипция" author="" url="" tags="" ctime="20210103222056" dir="1609701625y3gho8a1x3" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="16097016882h3pfcih3u" name="Род">
+    <recordtable>
+     <record id="1609701710lfp8nx0wko" name="Род" author="" url="" tags="" ctime="20210103222150" dir="1609701710itz7sdcqky" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609701727uw0rhhix2r" name="Число">
+    <recordtable>
+     <record id="16097017555nje4xu3sl" name="Число" author="" url="" tags="" ctime="20210103222235" dir="160970175580pb2lwhql" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609701807p60q0av26u" name="Падеж">
+    <recordtable>
+     <record id="16097018251tos3vec4b" name="Падеж" author="" url="" tags="" ctime="20210103222345" dir="1609701825c2i7ivxb4e" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609701869yy0eu81vku" name="Предлоги">
+    <recordtable>
+     <record id="16097018782ju6jnnm3b" name="Предлоги" author="" url="" tags="" ctime="20210103222438" dir="1609701878gijcqogv3v" file="text.html"/>
+     <record id="16097019122vma6r2ogz" name="-of" author="" url="" tags="" ctime="20210103222512" dir="1609701912v2ex37ywrw" file="text.html"/>
+     <record id="1609701977l7hnc3wnl6" name="-to" author="" url="" tags="" ctime="20210103222617" dir="1609701977v2wtquf16a" file="text.html"/>
+     <record id="16097020138ebr4srzn4" name="-for" author="" url="" tags="" ctime="20210103222653" dir="1609702013l5ruo0shvn" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609702033ht1ijv99bi" name="Определители существительного или группы существительного">
+    <recordtable>
+     <record id="1609702131f2gwi1ks6n" name="Определители существительного или группы существительного" author="" url="" tags="" ctime="20210103222851" dir="1609702131191ez0ypmn" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="16097021534nzhl049fh" name="Артикли">
+    <recordtable>
+     <record id="1609702172ob5xprirku" name="Артикли" author="" url="" tags="" ctime="20210103222932" dir="16097021724y3gy7p85j" file="text.html"/>
+     <record id="1609702231us2uuxbnql" name="Неопределённый артикль" author="" url="" tags="" ctime="20210103223031" dir="1609702231rdu76q7vos" file="text.html"/>
+     <record id="16097022627quensm2fo" name="Определённый артикль" author="" url="" tags="" ctime="20210103223102" dir="1609702262rnh8v7jcfq" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609702464lu8vigi731" name="Phonetics (Фонетика)">
+    <recordtable>
+     <record id="16097024963zxfpgj82y" name="Consonants (cогласные буквы)" author="" url="" tags="" ctime="20210103223456" dir="1609702496epfq8c3z7b" file="text.html"/>
+     <record id="1609704860xlg4zopd6z" name="Vowels (гласные звуки)" author="" url="" tags="" ctime="20210103231420" dir="16097048600rafm8s07f" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609702757ifl9cpngt4" name="Phrasal stress and intonation">
+    <recordtable>
+     <record id="16097028096c74bo34ww" name="Stress (ударение)" author="" url="" tags="" ctime="20210103224009" dir="1609702809wsglocdkhp" file="text.html"/>
+     <record id="16097029416m8fqgn93y" name="Intonation (интонация)" author="" url="" tags="" ctime="20210103224221" dir="16097029415k2uk420py" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609703053wbnea0xfak" name=" The order of words in a sentence">
+    <recordtable>
+     <record id="160970308047v4eth9uq" name="Порядок слов в предложении" author="" url="" tags="" ctime="20210103224440" dir="1609703080vvsst9c6p3" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609703699ydw7zuku1v" name="Verbs (глаголы)">
+    <recordtable>
+     <record id="1609703719ga39b4h0df" name="Общая характеристика" author="" url="" tags="" ctime="20210103225519" dir="1609703719j1vne6midh" file="text.html"/>
+     <record id="1609703868a4le2xzqck" name="Infinitive" author="" url="" tags="" ctime="20210103225748" dir="1609703868w06bvn1vn3" file="text.html"/>
+     <record id="1609704640e1hxnnoghu" name="Predicate - personal form of the verb (сказуемое - личная форма глагола)" author="" url="" tags="" ctime="20210103231040" dir="1609704640sjlak2k5bz" file="text.html"/>
+     <record id="160970474765clx68dv5" name="Imperative verb (Глагол в повелительном наклонении)" author="" url="" tags="" ctime="20210103231227" dir="1609704747m7z5bkl8e9" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1609704008470l0r3qjj" name="Местоимения">
+    <recordtable>
+     <record id="16097040928f9yaum552" name="Personal pronouns in the nominative and object cases (Личные местоимения в именительном и объектном падежах)" author="" url="" tags="" ctime="20210103230132" dir="16097040924uldm5qsbn" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
   <node crypt="" id="1609587723m1esy92j50" name="Видео">
    <node crypt="" id="1609587744r2qw70v2qg" name="GoPro_шпаргалка">
     <recordtable>
