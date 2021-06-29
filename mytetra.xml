@@ -115,6 +115,11 @@
    </node>
    <node crypt="" id="1578774923ftw98ag86j" name="Data Mine"/>
    <node crypt="" id="1578774946247r8jg3wv" name="Surpac"/>
+   <node crypt="" id="1623091097rp9sj3kni0" name="QGIS">
+    <recordtable>
+     <record id="1623091174yt1okcyh5o" name="GRID vs TIN" author="" url="" tags="" ctime="20210607213934" dir="1623091174o8qr1utn4j" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1606993459cftuz3iq1x" name="Дизайн">
    <node crypt="" id="1606994197daf7nbb00k" name="Дизайн для недизайнера">
