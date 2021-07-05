@@ -118,6 +118,9 @@
    <node crypt="" id="1623091097rp9sj3kni0" name="QGIS">
     <recordtable>
      <record id="1623091174yt1okcyh5o" name="GRID vs TIN" author="" url="" tags="" ctime="20210607213934" dir="1623091174o8qr1utn4j" file="text.html"/>
+     <record id="1625163736b1susyxiqu" name="Источники векторных карт" author="" url="" tags="" ctime="20210701212216" dir="1625163736xrqc6he1t5" file="text.html"/>
+     <record id="1625164965qhehg1y1bq" name="Модуль MapTiler" author="" url="" tags="" ctime="20210701214245" dir="16251649656qikep3l83" file="text.html"/>
+     <record id="1625165603fp8w81baeo" name="Система кординат картографических сервисов " author="" url="" tags="" ctime="20210701215323" dir="1625165603mort90i6ab" file="text.html"/>
     </recordtable>
    </node>
   </node>
