@@ -120,7 +120,12 @@
      <record id="1623091174yt1okcyh5o" name="GRID vs TIN" author="" url="" tags="" ctime="20210607213934" dir="1623091174o8qr1utn4j" file="text.html"/>
      <record id="1625163736b1susyxiqu" name="Источники векторных карт" author="" url="" tags="" ctime="20210701212216" dir="1625163736xrqc6he1t5" file="text.html"/>
      <record id="1625164965qhehg1y1bq" name="Модуль MapTiler" author="" url="" tags="" ctime="20210701214245" dir="16251649656qikep3l83" file="text.html"/>
-     <record id="1625165603fp8w81baeo" name="Система кординат картографических сервисов " author="" url="" tags="" ctime="20210701215323" dir="1625165603mort90i6ab" file="text.html"/>
+     <record id="1625165603fp8w81baeo" name="Система координат картографических сервисов " author="" url="" tags="" ctime="20210701215323" dir="1625165603mort90i6ab" file="text.html"/>
+     <record id="1625511852dd1vdr90n4" name="WGS vs SK-42" author="" url="" tags="" ctime="20210705220412" dir="1625511852d1yxt9v6ua" file="text.html"/>
+     <record id="1625511935sh7gaxtr0q" name="Pulkovo 1942" author="" url="" tags="" ctime="20210705220535" dir="162551193536pjscgpuh" file="text.html"/>
+     <record id="1625512390xkt6dtz9ex" name="Номера зон Pulkov-1942 и UTM" author="" url="" tags="" ctime="20210705221310" dir="1625512390olqeripghr" file="text.html"/>
+     <record id="16255149672bby2enq7i" name="Добавление архивных космоснимков" author="" url="" tags="" ctime="20210705225607" dir="1625514967zkufwdlj1p" file="text.html"/>
+     <record id="16255150949bcl4o7swb" name="Алгоритм работы с проекциями" author="Василий Швалев" url="" tags="" ctime="20210705225814" dir="16255150946cgentwjfv" file="text.html"/>
     </recordtable>
    </node>
   </node>
