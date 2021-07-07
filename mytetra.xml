@@ -235,5 +235,10 @@
    </recordtable>
   </node>
   <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
+  <node crypt="" id="1625596933fv8bng0awj" name="Цифровые геотехнологии">
+   <recordtable>
+    <record id="162559699843xu9qfa69" name="Anaconda" author="" url="" tags="" ctime="20210706214318" dir="16255969982dzcuhg5by" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
