@@ -241,5 +241,10 @@
     <record id="1625643591th7ijwvitl" name="Проблема с Anaconda Navigator" author="" url="" tags="" ctime="20210707103951" dir="1625643591hd30zuz3zv" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1625926402qnanyxygg1" name="Git">
+   <recordtable>
+    <record id="1625926441trg7rvs07b" name="Команды Git" author="Кирилл Версетти" url="" tags="" ctime="20210710171401" dir="1625926441gr2zp2jsig" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
