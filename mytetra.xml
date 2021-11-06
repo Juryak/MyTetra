@@ -111,6 +111,7 @@
     <recordtable>
      <record id="1576091346n78vneewu0" name="База геоданных стандарта ESRI (*.gdb)" author="uriak" url="" tags="ArcGIS" ctime="20191211220906" dir="1576091346hc5skn0qhe" file="text.html"/>
      <record id="1576094824upsj3z3rj5" name="Форматы данных ArcGIS" author="uriak" url="" tags="ArcGIS" ctime="20191211230704" dir="1576094824sxp92mkrsa" file="text.html"/>
+     <record id="1626441526vp1br68fk0" name="Экспорт объектов в блоки AutoCad" author="" url="" tags="" ctime="20210716161846" dir="1626441526hstljukx13" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1578774923ftw98ag86j" name="Data Mine"/>
