@@ -235,7 +235,17 @@
     <record id="15756649777fab9aw6qk" name="Наполеон с заварным кремом" author="uriak" url="" tags="еда наполеон" ctime="20191209234119" dir="15756649774e28zgr0wc" file="text.html"/>
    </recordtable>
   </node>
-  <node crypt="" id="1578774782fx44qizap1" name="Философия"/>
+  <node crypt="" id="1578774782fx44qizap1" name="Философия">
+   <recordtable>
+    <record id="16361924681p7d4mtfj4" name="Задачи философии" author="" url="" tags="" ctime="20211106125428" dir="1636192468r6y954ceag" file="text.html"/>
+    <record id="1636193506zrcoexa5lr" name="Структура философского знания" author="" url="" tags="" ctime="20211106131146" dir="1636193506i5j3qdaynf" file="text.html"/>
+    <record id="1636196928kumvdvp0o0" name="Мировоззрения" author="" url="" tags="" ctime="20211106140848" dir="1636196928dw4f8murky" file="text.html"/>
+    <record id="1636197865oq5aghku9l" name="Сходства и отличия философии от науки, религии и искусства" author="" url="" tags="" ctime="20211106142425" dir="16361978655rsjgh26fv" file="text.html"/>
+    <record id="1636197945luskglsj46" name="Онтологические концепции" author="" url="" tags="" ctime="20211106142545" dir="1636197945otmunamyij" file="text.html"/>
+    <record id="16361980356k5bxkfl8r" name="Идеализм/материализм" author="" url="" tags="" ctime="20211106142715" dir="1636198035iy37gl2bp6" file="text.html"/>
+    <record id="1636198734w85zr5gspi" name="Бытие" author="" url="" tags="" ctime="20211106143854" dir="1636198734k04ubyqcpf" file="text.html"/>
+   </recordtable>
+  </node>
   <node crypt="" id="1625596933fv8bng0awj" name="Цифровые геотехнологии">
    <recordtable>
     <record id="162559699843xu9qfa69" name="Anaconda" author="" url="" tags="" ctime="20210706214318" dir="16255969982dzcuhg5by" file="text.html"/>
